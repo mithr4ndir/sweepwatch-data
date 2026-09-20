@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "sha256": "523d1b559a78ba208bb8f73916d0567ad7e2fb505fdf7c75f7fa892d32139955",
+  "sha256": "e9cb34446b5111e0d6fef821d03d07690a38274d7bfedb2acab4139cff9b35ba",
   "size_bytes": 3817472,
-  "source_updated_at": "unknown",
+  "source_updated_at": "2026-05-14T11:36:29+00:00",
   "source_sha256": "bc999de36b1b45de2268548dd36e9e35715df41b2365af8ada84164beceaee9e",
   "segment_count": 12242,
   "rule_count": 37856,
-  "url": "https://mithr4ndir.github.io/sweepwatch-data/sweep-523d1b559a78.sqlite"
+  "url": "https://mithr4ndir.github.io/sweepwatch-data/sweep-e9cb34446b51.sqlite"
 }
